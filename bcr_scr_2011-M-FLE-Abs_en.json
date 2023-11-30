@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "65020b89-a0b2-73f8-4ccf-75c31473e2cd",
+    "title": "Flemish Region: Males, number of invasive tumours by primary site and age group in 2011",
+    "description": "The Belgian Cancer Registry publishes figures related to cancer incidence, mortality and survival rates. The annual figures are available in table form. The tables contain the incidence figures per tumour localisation and gender. Separate tables are available for Belgium, the Flemish Region, the Walloon Region and the Brussels-Capital Region.\n",
+    "publisher": "Belgian Cancer Registry",
+    "downloadURL": "https://github.com/healthfacts/distributions_bcr_scr/blob/main/bcr_scr_2011-M-FLE-Abs_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_bcr_scr/blob/main/bcr_scr_2011-M-FLE-Abs_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 5321,
+    "modificationDate": "2023-11-26 12:51:24",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://kankerregister.org/Standard%20cancer%20registration",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "01d16257-589f-4cad-aa8b-db4960ae0f2d",
+        "title": "Standard Cancer Registration",
+        "landingPage": "https://kankerregister.org/Standard%20cancer%20registration",
+        "contactPoint": "Koningsstraat/Rue Royale 215 Box 7, 1210 Brussels",
+        "contactPointEmail": "info@kankerregister.org"
+    }
+}
