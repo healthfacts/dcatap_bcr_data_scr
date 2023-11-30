@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "b8cd2f7b-4f01-183b-c600-76917ae3df58",
+    "title": "Flemish Region: Females, number of invasive tumours by primary site and age group in 2021",
+    "description": "The Belgian Cancer Registry publishes figures related to cancer incidence, mortality and survival rates. The annual figures are available in table form. The tables contain the incidence figures per tumour localisation and gender. Separate tables are available for Belgium, the Flemish Region, the Walloon Region and the Brussels-Capital Region.\n",
+    "publisher": "Belgian Cancer Registry",
+    "downloadURL": "https://github.com/healthfacts/distributions_bcr_scr/blob/main/bcr_scr_2021-F-FLE-Abs_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_bcr_scr/blob/main/bcr_scr_2021-F-FLE-Abs_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 5486,
+    "modificationDate": "2023-11-26 12:51:35",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://kankerregister.org/Standard%20cancer%20registration",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "01d16257-589f-4cad-aa8b-db4960ae0f2d",
+        "title": "Standard Cancer Registration",
+        "landingPage": "https://kankerregister.org/Standard%20cancer%20registration",
+        "contactPoint": "Koningsstraat/Rue Royale 215 Box 7, 1210 Brussels",
+        "contactPointEmail": "info@kankerregister.org"
+    }
+}
